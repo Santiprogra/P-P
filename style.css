@@ -505,7 +505,7 @@ footer .copyright {
     }
 }
 
-@media (max-width: 375px) {
+@media (min-width: 375px) {
     .section-p1 {
         padding: 20px;
     }
